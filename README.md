@@ -1,6 +1,6 @@
 # digitalsociety
 
-A new Flutter project.
+
 <img src="https://github.com/DevAgarwal2/Digital-Society/assets/104455793/579aa63f-8257-40ba-a550-53d914799c34" height="400" width="200">
 <img src="https://github.com/DevAgarwal2/Digital-Society/assets/104455793/73c6ac24-cfec-442d-a462-47fadabd802b" height="400" width="200">
 <img src="https://github.com/DevAgarwal2/Digital-Society/assets/104455793/34398142-d91e-4c2f-a13b-7b12216e33e1" height="400" width="200">
